@@ -1,14 +1,58 @@
-<h1 align="center">👋 Hola, soy Augus</h1>
+<!-- Encabezado estilo terminal -->
+<img src="https://img.shields.io/badge/Terminal_Mode-Active-6f3faf?style=for-the-badge&logo=gnubash" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaugusto1028&show_icons=false&hide_title=true&text_color=bb9af7&bg_color=00000000" />
-</p>
+md
+Copiar código
+# > whoami
+**Augus**  
+Estudiante de **Ingeniería en Sistemas de Información**  
+Apasionado por **redes**, **sistemas**, **programación** y **tecnología**.
 
----
+md
+Copiar código
+# > status --info
+md
+Copiar código
+- 🌐 Enfoque: Networking, Sistemas y Desarrollo
+- ⚙️ Explorando: Linux, Docker, Seguridad y Automatización
+- 📡 Packets > Magic
+md
+Copiar código
+# > skills --list
+md
+Copiar código
+```text
+┌──────────────────────────┐
+│   Networking / Systems   │
+├──────────────────────────┤
+│ TCP/IP   •   Routing     │
+│ VLANs    •   Wireshark   │
+│ Linux    •   Firewalls   │
+└──────────────────────────┘
 
-### 🎓 Sobre mí  
-- **Nombre:** Augus  
-- **Carrera:** Ingeniería en Sistemas de Información — UTN FRC  
+┌──────────────────────────┐
+│        Programming        │
+├──────────────────────────┤
+│ Python  •  JavaScript    │
+│ Bash    •  SQL           │
+└──────────────────────────┘
+bash
+Copiar código
 
----
-
+```md
+# > projects --show
+md
+Copiar código
+- 🔧 Configuraciones de red  
+- 🐧 Scripts y automatizaciones Linux  
+- 🗄️ Prácticas de sistemas + backend  
+md
+Copiar código
+# > ping augus.dev
+md
+Copiar código
+Siempre aprendiendo. Siempre construyendo.  
+Si dice *timeout*, igual vuelvo.  
+md
+Copiar código
+<img src="https://img.shields.io/badge/Network_Ready-100%25-6f3faf?style=for-the-bad
