@@ -6,7 +6,7 @@ Estudiante de Ingeniería en Sistemas de Información en la **UTN FRC** (Córdob
 
 #### Tecnologías principales
 * **Backend:** Java (Spring Boot, Spring Cloud), Python, Node.js
-* **Frontend:** React, Vite, Tailwind CSS
+* **Frontend:** React, Vite
 * **Bases de datos y mensajería:** PostgreSQL, MySQL, SQL Server, MongoDB, RabbitMQ
 * **Infraestructura y herramientas:** Linux (Debian, Fedora), Docker, Git, Nginx, Keycloak
 
